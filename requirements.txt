@@ -1,0 +1,7 @@
+pandas
+seaborn
+matplotlib
+Faker
+SQLAlchemy
+pymysql
+psycopg2-binary
