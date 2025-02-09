@@ -1,6 +1,5 @@
 
-
-![alt text](image-2.png)
+![Alt Text](OIP (2).jpg)
 
 
 # Data Analyst Project - Altice
@@ -29,7 +28,7 @@ Projeto de automação ETL e dashboard para a Altice, desenvolvido como parte do
 ├── 📂 data/
 │   └── 📄 clientes_altice.csv    # Dados brutos
 └── 📂 powerbi/
-    └── 📄 Altice_Dashboard.pbix  # Arquivo do Power BI
+    └── 📄 Altice_Data.pbix  # Arquivo do Power BI
 
 
 
@@ -132,14 +131,6 @@ Executar o pipeline ETL:
 📌 Conclusão
 
 Este projeto demonstra a capacidade de trabalhar com ETL, SQL e Power BI, criando um pipeline automatizado de dados para análise e visualização. Ele foi estruturado para garantir escalabilidade, eficiência e qualidade na manipulação dos dados, atendendo aos requisitos da vaga de Data Analyst na Altice.
-
-
-
-
-
-
-
-
 
 
 
