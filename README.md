@@ -1,7 +1,6 @@
 
 
-![alt text](image.png)
-
+![alt text](image-2.png)
 
 
 # Data Analyst Project - Altice
@@ -108,7 +107,7 @@ Otimização: Implementação de chaves primárias e estrangeiras para normaliza
 
 Instalar as dependências:
 
-![alt text](image-1.png)
+![alt text](image-5.png)
 
 Gerar os dados sintéticos:
 
