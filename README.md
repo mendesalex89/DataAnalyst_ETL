@@ -59,7 +59,7 @@ Ambiente de Desenvolvimento: Visual Studio Code, SQL Server Management Studio (S
 
 📂 Estrutura do Projeto
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 📁 **1. Geração de Dados Sintéticos (dados.py)
