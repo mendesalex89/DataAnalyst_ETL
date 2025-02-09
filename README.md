@@ -1,5 +1,5 @@
 
-![Alt Text](OIP (2).jpg)
+![alt text](image.png)
 
 
 # Data Analyst Project - Altice
