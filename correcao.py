@@ -22,3 +22,4 @@ def corrigir_csv(nome, caminho):
 # Processar todos os arquivos
 for nome, caminho in arquivos.items():
     corrigir_csv(nome, caminho)
+ 
