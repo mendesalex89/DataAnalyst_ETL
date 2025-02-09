@@ -18,46 +18,29 @@ Projeto de automação ETL e dashboard para a Altice, desenvolvido como parte do
 - **Ferramentas:**MS SQL Server, Power BI, pyodbc, pandas
 - **Ambiente:** Visual Studio Code, SQL Server Management Studio
 
-## 📂 Estrutura do Projeto
-📂 Altice_DataAnalyst_Project/
-├── 📂 airflow/
-│   ├── 📂 dags/                  # Pasta obrigatória para DAGs
-│   │   └── 📄 altice_etl_dag.py  # Seu código de ETL
-│   ├── 📂 logs/                  # Logs automáticos do Airflow
-│   └── 📄 airflow.cfg            # Arquivo de configuração
-├── 📂 data/
-│   └── 📄 clientes_altice.csv    # Dados brutos
-└── 📂 powerbi/
-    └── 📄 Altice_Data.pbix  # Arquivo do Power BI
 
-
-
-
-📌 Visão Geral
-
-Este projeto foi desenvolvido como parte do processo seletivo para a posição de Data Analyst na Altice. O objetivo é demonstrar habilidades em ETL, SQL e Power BI, criando um pipeline de dados automatizado e um dashboard interativo. O projeto inclui:
-
-ETL automatizado com Python, realizando extração, transformação e carga de dados.
-
-Modelagem de dados e otimização de consultas SQL para garantir eficiência e qualidade.
-
-Dashboard interativo no Power BI para visualização e análise dos dados.
-
-🛠️ Ferramentas Utilizadas
-
-Linguagens: Python, SQL, DAX
-
-Banco de Dados: Microsoft SQL Server
-
-Bibliotecas: Pandas, SQLAlchemy, Faker, Seaborn, Matplotlib
-
-ETL & Conectores: PyODBC, Apache Airflow
-
-Ambiente de Desenvolvimento: Visual Studio Code, SQL Server Management Studio (SSMS), Power BI
 
 📂 Estrutura do Projeto
-
-![alt text](image-1.png)
+Altice_DataAnalyst/
+│-- dados.py
+│-- eda.ipynb
+│-- SQL_conexao.ipynb
+│-- ETL.py
+│-- requirements.txt
+│-- README.md
+│
+├── data/
+│   ├── dim_cidades.csv
+│   ├── dim_produtos.csv
+│   ├── dim_clientes.csv
+│   ├── fato_vendas.csv
+│
+├── scripts/
+│   ├── etl_pipeline.py
+│   ├── sql_queries.sql
+│
+├── dashboards/
+│   ├── powerbi_dashboard.pbix
 
 
 📁 **1. Geração de Dados Sintéticos (dados.py)
@@ -126,7 +109,7 @@ Verificar as credenciais em SQL_conexao.ipynb.
 
 Executar o pipeline ETL:
 
-![alt text](image-4.png)
+python ETL.py
 
 📌 Conclusão
 
