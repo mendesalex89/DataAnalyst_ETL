@@ -6,3 +6,4 @@ SQLAlchemy
 pymysql
 psycopg2-binary
 apache-airflow
+faker
