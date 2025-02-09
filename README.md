@@ -15,7 +15,7 @@ Projeto de automação ETL e dashboard para a Altice, desenvolvido como parte do
 
 ## 🛠️ Ferramentas Utilizadas
 - **Linguagens:** Python, SQL, DAX
-- **Ferramentas:**MS SQL Server, Power BI, pyodbc, pandas
+- **Ferramentas:** MS SQL Server, Power BI, pyodbc, pandas
 - **Ambiente:** Visual Studio Code, SQL Server Management Studio
 
 
