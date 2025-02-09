@@ -106,11 +106,11 @@ Otimização: Implementação de chaves primárias e estrangeiras para normaliza
 
 Instalar as dependências:
 
-![alt text](image-5.png)
+pip install -r requirements.txt
 
 Gerar os dados sintéticos:
 
-![alt text](image-3.png)
+python dados.py
 
 
 
@@ -146,7 +146,8 @@ Este projeto demonstra a capacidade de trabalhar com ETL, SQL e Power BI, criand
 ## Power BI conexão com SQL Server e Dashboard
 
 
-
+![Imagem 1](Captura%20de%20ecrã%202025-02-09%20142036.png)
+![Imagem 2](Captura%20de%20ecrã%202025-02-09%20142111.png)
 
 
 
