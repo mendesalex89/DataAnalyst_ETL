@@ -149,15 +149,15 @@ Este projeto demonstra a capacidade de trabalhar com ETL, SQL e Power BI, criand
 
 ## Tabelas criadas no SQL server e conectadas com o python 
 
-![alt text](image-1.png)
+
 
 
 
 ## Power BI conexão com SQL Server e Dashboard
 
-![alt text](image-2.png)
 
 
-![alt text](image-3.png)
+
+
 
 
