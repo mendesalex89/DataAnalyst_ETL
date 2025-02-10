@@ -6,6 +6,8 @@
 **Candidato:** Alex Mendes  
 **Vaga:** Data Analyst (ETL, SQL, Power BI)  
 
+![image](https://github.com/user-attachments/assets/a410fc9a-a902-4ca3-a7a4-0c09eb35ac99)
+
 
 ## 📌 Visão Geral
 Projeto de automação ETL e dashboard para a Altice, desenvolvido como parte do processo seletivo para a vaga de Data Analyst. Inclui:
