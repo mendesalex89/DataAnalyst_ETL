@@ -126,7 +126,7 @@ Este projeto demonstra a capacidade de trabalhar com ETL, SQL e Power BI, criand
 
 
 
-## Power BI conexão com SQL Server e Dashboard
+## Power BI conexão com SQL Server 
 
 
 ![Imagem 1](Captura%20de%20ecrã%202025-02-09%20142036.png)
