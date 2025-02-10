@@ -51,7 +51,7 @@ Geração de clientes fictícios por cidade.
 
 Atribuição de produtos vendidos e valores de preços aleatórios.
 
-Registro de vendas com datas variadas entre 2022 e 2025.
+Registro de vendas com datas variadas entre 2024 e 2025.
 
 📊 **2. Análise Exploratória dos Dados (eda.ipynb)
 
@@ -96,9 +96,6 @@ Gerar os dados sintéticos:
 python dados.py
 
 
-
-python dados.py
-
 Executar a análise exploratória:
 
 Abrir eda.ipynb e rodar todas as células.
@@ -118,15 +115,13 @@ Este projeto demonstra a capacidade de trabalhar com ETL, SQL e Power BI, criand
 
 
 
-
-
 ## Tabelas criadas no SQL server e conectadas com o python 
 
 ![Alt Text](Captura%20de%20ecrã%202025-02-09%20141728.png)
 
 
 
-## Power BI conexão com SQL Server 
+## Power BI conexão com SQL Server e Dashboard
 
 
 ![Imagem 1](Captura%20de%20ecrã%202025-02-09%20142036.png)
