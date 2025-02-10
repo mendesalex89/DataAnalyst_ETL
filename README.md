@@ -129,6 +129,8 @@ Este projeto demonstra a capacidade de trabalhar com ETL, SQL e Power BI, criand
 ![Imagem 1](Captura%20de%20ecrã%202025-02-09%20142036.png)
 ![Imagem 2](Captura%20de%20ecrã%202025-02-09%20142111.png)
 
+![image](https://github.com/user-attachments/assets/60e9bf7a-04ac-4dca-afca-168c13862d9c)
+
 
 
 
