@@ -44,7 +44,7 @@ DataAnalyst/
 │   ├── powerbi_dashboard.pbix
 
 
-📁 **1. Geração de Dados Sintéticos (dados.py)
+📁 1. Geração de Dados Sintéticos (dados.py)
 
 Como não havia uma base de dados real disponível, os dados foram gerados utilizando a biblioteca Faker. O script gera informações sobre clientes, cidades, produtos e vendas, salvando os resultados em arquivos CSV.
 
@@ -54,7 +54,7 @@ Atribuição de produtos vendidos e valores de preços aleatórios.
 
 Registro de vendas com datas variadas entre 2024 e 2025.
 
-📊 **2. Análise Exploratória dos Dados (eda.ipynb)
+📊 2. Análise Exploratória dos Dados (eda.ipynb)
 
 Foi realizada uma análise exploratória detalhada dos dados gerados para verificar sua consistência e identificar padrões. Foram utilizadas as bibliotecas Pandas, Seaborn e Matplotlib para:
 
@@ -68,7 +68,7 @@ Visualizar o volume de vendas ao longo do tempo.
 
 Avaliar os preços dos produtos por meio de boxplots.
 
-🛢️ **3. Conexão com Banco de Dados (SQL_conexao.ipynb)
+🛢️ 3. Conexão com Banco de Dados (SQL_conexao.ipynb)
 
 A conexão com o Microsoft SQL Server foi estabelecida utilizando pyodbc. O notebook verifica a conexão e retorna a versão do SQL Server para garantir que o ambiente está devidamente configurado.
 
@@ -84,7 +84,7 @@ Carga: Inserção dos dados no banco de dados SQL Server via SQLAlchemy.
 
 Otimização: Implementação de chaves primárias e estrangeiras para normalização.
 
-📊 **5. Dashboard no Power AlticeDat.pbix)
+📊 5. Dashboard no Power AlticeDat.pbix)
 
 🚀 Como Executar o Projeto
 
