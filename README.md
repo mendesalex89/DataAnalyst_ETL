@@ -1,12 +1,11 @@
 
-![alt text](image.png)
 
 
-# Data Analyst Project - Altice
-**Candidato:** Alex Mendes  
-**Vaga:** Data Analyst (ETL, SQL, Power BI)  
 
-![image](https://github.com/user-attachments/assets/a410fc9a-a902-4ca3-a7a4-0c09eb35ac99)
+# Data Analyst Project 
+
+# Data Analyst (ETL, SQL, Power BI)  
+
 
 
 ## 📌 Visão Geral
@@ -23,7 +22,7 @@ Projeto de automação ETL e dashboard para a Altice, desenvolvido como parte do
 
 
 📂 Estrutura do Projeto
-Altice_DataAnalyst/
+DataAnalyst/
 │-- dados.py
 │-- eda.ipynb
 │-- SQL_conexao.ipynb
@@ -129,7 +128,7 @@ Este projeto demonstra a capacidade de trabalhar com ETL, SQL e Power BI, criand
 ![Imagem 1](Captura%20de%20ecrã%202025-02-09%20142036.png)
 ![Imagem 2](Captura%20de%20ecrã%202025-02-09%20142111.png)
 
-![image](https://github.com/user-attachments/assets/60e9bf7a-04ac-4dca-afca-168c13862d9c)
+
 
 
 
